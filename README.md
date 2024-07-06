@@ -95,6 +95,7 @@ This repository provides a simple guide to manipulate the Turtlesim package in b
 5. output:
   <img width="434" alt="image" src="https://github.com/GDHadeel/Turtlesim-in-ROS-Noetic-and-ROS-2-Foxy/assets/126657301/992beca9-7246-41a7-970c-0db019d9b5b3">
 
+---
 
 ## Acknowledgements
 https://wiki.ros.org/turtlesim
