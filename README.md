@@ -3,6 +3,8 @@
 ## Description 
 This repository provides a simple guide to manipulate the Turtlesim package in both ROS Noetic and ROS 2 Foxy to draw basic shapes: a circle and a square. The Turtlesim package is a beginner-friendly tool that helps new ROS users learn basic ROS concepts by visualizing the movements of a simulated turtle.
 
+---
+
 * Start by opening a terminal using Ctrl + Alt + T.
 
 ### Manipulate with turtlesim package in ROS noetic
