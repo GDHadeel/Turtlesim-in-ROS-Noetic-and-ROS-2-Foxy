@@ -17,7 +17,7 @@ This repository provides a simple guide to manipulate the Turtlesim package in b
      sudo apt-get install ros-noetic-turtlesim
      ```
      
-3. Run the turtlesim node::
+3. Run the turtlesim node:
      ```bash
      rosrun turtlesim turtlesim_node
      ```
